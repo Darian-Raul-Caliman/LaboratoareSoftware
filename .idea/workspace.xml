@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b7adff-db8a-40ba-9648-99e085c5e97f" name="Changes" comment="Laborator 5Adv.">
+    <list default="true" id="c8b7adff-db8a-40ba-9648-99e085c5e97f" name="Changes" comment="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ro/ulbs/proiectaresoftware/lab6/NewIntCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ro/ulbs/proiectaresoftware/lab6/NewIntCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,40 +47,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Unnamed.executor": "Run",
-    "Gradle.Build LaboratoareSoftware.executor": "Run",
-    "Gradle.DoubleCalculatorTest.addTest.executor": "Run",
-    "Gradle.DoubleCalculatorTest.executor": "Run",
-    "Gradle.GroupTest.executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab1.Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab2.Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab3.Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab4.AppLab4.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab5.AppLab5.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab5.advanced.Lab5Adv.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/raulc/IdeaProjects/LaboratoareSoftware/src/main/java/org/example/Main.java",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build LaboratoareSoftware.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DoubleCalculatorTest.addTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DoubleCalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.GroupTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab1.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab2.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab3.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab4.AppLab4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab5.AppLab5.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab5.advanced.Lab5Adv.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab7.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.laborator7_starter_src.src.main.java.ro.ulbs.proiectare.lab7.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/raulc/IdeaProjects/LaboratoareSoftware/src/main/java/org/example/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raulc\IdeaProjects\LaboratoareSoftware\src\main\java\ro\ulbs\proiectaresoftware" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ro.ulbs.proiectaresoftware.lab3" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DoubleCalculatorTest">
-    <configuration name="Lab5Adv" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-25" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ro.ulbs.proiectaresoftware.lab5.advanced.Lab5Adv" />
+      <option name="MAIN_CLASS_NAME" value="ro.ulbs.proiectaresoftware.lab7.Main" />
       <module name="LaboratoareSoftware.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,6 +163,12 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.DoubleCalculatorTest" />
+      <item itemvalue="Gradle.DoubleCalculatorTest.addTest" />
+      <item itemvalue="Gradle.GroupTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.DoubleCalculatorTest" />
@@ -278,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775592643945</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest">
+      <option name="closed" value="true" />
+      <created>1776511918763</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776511918763</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,6 +309,7 @@
     <MESSAGE value="Laborator 4 c)" />
     <MESSAGE value="Laborator 5 AdvancedCalculator." />
     <MESSAGE value="Laborator 5Adv." />
-    <option name="LAST_COMMIT_MESSAGE" value="Laborator 5Adv." />
+    <MESSAGE value="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest" />
   </component>
 </project>
