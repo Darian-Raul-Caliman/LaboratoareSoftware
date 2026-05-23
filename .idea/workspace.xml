@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b7adff-db8a-40ba-9648-99e085c5e97f" name="Changes" comment="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/proiectaresoftware/lab8/Laborator8Aplicatie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c8b7adff-db8a-40ba-9648-99e085c5e97f" name="Changes" comment="Laborator 8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/proiectaresoftware/lab9/Exercitiul931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/proiectaresoftware/lab9/Exercitiul932.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,8 @@
     "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.lab7.Main.main()].executor": "Run",
     "Gradle.LaboratoareSoftware [:ro.ulbs.proiectaresoftware.laborator7_starter_src.src.main.java.ro.ulbs.proiectare.lab7.Main.main()].executor": "Run",
     "Gradle.Laborator-Paradigme [:ro.ulbs.proiectaresoftware.lab7.Main.main()].executor": "Run",
+    "Gradle.Laborator-Paradigme [:ro.ulbs.proiectaresoftware.lab8.Laborator8Aplicatie.main()].executor": "Run",
+    "Gradle.Laborator-Paradigme [:ro.ulbs.proiectaresoftware.lab9.Exercitiul931.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -79,6 +77,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/raulc/IdeaProjects/Laborator-Paradigme/src/main/java/ro/ulbs/proiectaresoftware/lab8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +89,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raulc\IdeaProjects\Laborator-Paradigme\src\main\java\ro\ulbs\proiectaresoftware\lab8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\raulc\IdeaProjects\LaboratoareSoftware\src\main\java\ro\ulbs\proiectaresoftware" />
     </key>
@@ -97,11 +99,11 @@
       <recent name="ro.ulbs.proiectaresoftware.lab3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Laborator8Aplicatie">
-    <configuration name="Laborator8Aplicatie" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Exercitiul932">
+    <configuration name="Exercitiul932" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-25" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ro.ulbs.proiectaresoftware.lab8.Laborator8Aplicatie" />
+      <option name="MAIN_CLASS_NAME" value="ro.ulbs.proiectaresoftware.lab9.Exercitiul932" />
       <module name="LaboratoareSoftware.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,7 +200,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Laborator8Aplicatie" />
+      <item itemvalue="Application.Exercitiul932" />
       <item itemvalue="Gradle.DoubleCalculatorTest" />
       <item itemvalue="Gradle.DoubleCalculatorTest.addTest" />
       <item itemvalue="Gradle.GroupTest" />
@@ -225,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773484996643</updated>
-      <workItem from="1779534110343" duration="473000" />
+      <workItem from="1779534110343" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="Laborator1">
       <option name="closed" value="true" />
@@ -331,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776511918763</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Laborator 8">
+      <option name="closed" value="true" />
+      <created>1779534765151</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1779534765152</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,6 +358,7 @@
     <MESSAGE value="Laborator 5 AdvancedCalculator." />
     <MESSAGE value="Laborator 5Adv." />
     <MESSAGE value="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laborator 6 DoubleCalculatorTest si NewIntCalculatorTest" />
+    <MESSAGE value="Laborator 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laborator 8" />
   </component>
 </project>
